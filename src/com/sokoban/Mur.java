@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.sokoban;
 import java.awt.Image;
 import javax.swing.ImageIcon;
 // Importations nécessaires pour utiliser les fonctionnalités d'Awt et Swing pour les images des murs

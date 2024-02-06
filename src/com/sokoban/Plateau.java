@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.sokoban;
 
 import javax.swing.*;
 

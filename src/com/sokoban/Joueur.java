@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.sokoban;
 // Importation du package Image d'Awt pour manipuler des images
 import java.awt.Image;
 // Importation de la classe Acteur du même package

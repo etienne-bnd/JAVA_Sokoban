@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.sokoban;
 import java.awt.Image; // Importation du package Image d'Awt pour manipuler des images
 import javax.swing.ImageIcon;
 
