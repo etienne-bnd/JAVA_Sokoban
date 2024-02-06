@@ -2,8 +2,6 @@ package com.sokoban;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;
-import java.beans.PropertyChangeEvent;
-import java.beans.PropertyChangeListener;
 
 // Classe principale du jeu Sokoban, héritant de JFrame pour l'affichage
 public class Sokoban extends JFrame {
