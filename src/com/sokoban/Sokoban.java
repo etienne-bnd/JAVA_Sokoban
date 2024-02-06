@@ -21,7 +21,7 @@ public class Sokoban extends JFrame {
         plateau = new Plateau(); // Création d'un nouvel objet Plateau
         add(plateau); // Ajout du plateau à la fenêtre principale
 
-        setTitle("Sokoban FR");
+        setTitle("Sokoban");
         setSize(plateau.getLargeurPlateau() + DECALAGE + 10,
                 plateau.getHauteurPlateau() + 2 * DECALAGE + 5);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // pour pouvoir fermer la fenêtre
