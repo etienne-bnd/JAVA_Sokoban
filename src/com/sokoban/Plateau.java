@@ -142,10 +142,11 @@ public class Plateau extends JPanel {
                 if (Niveau.getNiveauCourant() == Niveau.nombreNiveau - 1){
                     g.setColor(new Color(0, 0, 0));
                     g.drawString("Bravo vous avez terminé le jeu", 25, 20);  
-     
+                    return;
 
-            }
+            } else {
                 niveauSuivant();
+            }
 
             }
 

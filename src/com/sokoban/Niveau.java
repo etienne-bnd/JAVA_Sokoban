@@ -55,19 +55,6 @@ public class Niveau {
         "######\n"
         );
 
-        // Niveau 5
-        add("                     \n" +
-        "                     \n" +
-        "                     \n" +
-        "                     \n" +
-        "                     \n" +
-        "                     \n" +
-        "                     \n" +
-        "                     \n" +
-        "                     \n" 
-        
-        );
-
         // Ajoutez d'autres niveaux ici si nécessaire
 
     }};
