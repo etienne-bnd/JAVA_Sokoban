@@ -487,8 +487,6 @@ public class Plateau extends JPanel {
         zones.clear();
         caisses.clear();
         murs.clear();
-        Niveau.augmenterNiveau();
-        this.niveau = Niveau.getNiveauActuel();
 
         initialiserMonde();
 
