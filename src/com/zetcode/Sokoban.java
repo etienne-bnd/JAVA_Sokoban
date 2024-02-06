@@ -46,7 +46,6 @@ public class Sokoban extends JFrame {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println(Niveau.getNiveauCourant());
             setSize(plateau.getLargeurPlateau() + DECALAGE + 10,
                     plateau.getHauteurPlateau() + 2 * DECALAGE + 5);
             niveauCourant++;
