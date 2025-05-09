@@ -1,2 +1,6 @@
 Le Sokoban, connu sous le nom de "l'homme qui pousse les boîtes", est un casse-tête japonais classique créé dans les années 80. Le jeu se déroule dans un labyrinthe où les joueurs doivent déplacer des boîtes vers des emplacements spécifiques en évitant les obstacles. Les règles simples impliquent des déplacements stratégiques, chaque niveau réussi nécessitant une planification minutieuse pour anticiper les conséquences de chaque mouvement. Le Sokoban offre un défi intellectuel captivant avec plusieurs solutions possibles pour chaque niveau, ajoutant une touche de créativité. Notre projet Java vise à donner une nouvelle vie à ce classique, préservant son charme intemporel tout en offrant une expérience interactive moderne.
 
+Rapport du projet:
+
+https://github.com/etienne-bnd/projet_java_centrale/blob/main/Sokoban_Milo_HIVERT_Etienne_BONNAND.pdf
+
